@@ -44,7 +44,7 @@ The server will start at `http://localhost:3000/`.
 ### API Endpoint
 | Method | Endpoint | Description |
 |--------|---------|-------------|
-| GET | `/` | Returns user data (email, current date/time, GitHub link) |
+| GET | `/api` | Returns user data (email, current date/time, GitHub link) |
 
 ## Issues
 If you encounter any issues, ensure you have **CORS** properly installed and imported correctly:
