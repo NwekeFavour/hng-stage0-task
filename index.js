@@ -11,7 +11,7 @@ app.get('/api', (req,res) => {
     const userData = {
         "email" : "nwekefavour1315@gmail.com",
         "current_datetime": date,
-        "github_url": "https://github.com/NwekeFavour/hng-stage0-task.git"
+        "github_url": "https://github.com/NwekeFavour/hng-stage0-task"
     }
     res.json(userData)
 })
