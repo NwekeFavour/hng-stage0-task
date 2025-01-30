@@ -36,7 +36,7 @@ node server.js
 ```
 Or if using **nodemon** for auto-reloading:
 ```sh
-npx nodemon server.js
+nodemon index.js
 ```
 
 The server will start at `http://localhost:3000/`.
